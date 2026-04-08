@@ -14,4 +14,4 @@ I also have a strong foundation in Data Structures, Algorithms, OOPs, DBMS, OS, 
 If you want to collaborate or build something impactful, feel free to reach out.
 
 📫 adriel.joseph2506@gmail.com.com
-🔗 /adriel-joseph-8495b9385/
+🔗 https://www.linkedin.com/in/adriel-joseph-8495b9385/
