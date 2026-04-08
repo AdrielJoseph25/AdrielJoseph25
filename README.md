@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**AdrielJoseph25/AdrielJoseph25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI/ML & Data Science student.
 
-Here are some ideas to get you started:
+I build intelligent systems and explore how machine learning and AI can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something interests me, I dive deep and turn it into a project.
+
+My main stack includes Python, C++, Java, React, Django, and FastAPI.
+I work with LLMs, NLP, Transformers, GenAI, and RAG-based systems, along with tools like Hugging Face, OpenAI APIs, and Pinecone.
+
+I also have a strong foundation in Data Structures, Algorithms, OOPs, DBMS, OS, and Computer Networks.
+
+If you want to collaborate or build something impactful, feel free to reach out.
+
+📫 adriel.joseph2506@gmail.com.com
+🔗 /adriel-joseph-8495b9385/
