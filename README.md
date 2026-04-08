@@ -49,16 +49,8 @@
 
 ---
 
-## 🚀 Projects  
-- 🚆 Railway Reservation System  
-- ⚡ ParkEV (Smart Parking + EV Platform)  
-- 🩺 MediCheck (AI Health Assistant with RAG)  
-- 🚑 Smart Ambulance Vitals Monitor  
-
----
-
 ## 📫 Connect with Me  
-- 📧 your-email@example.com  
-- 🔗 your-linkedin-link  
+- 📧 adriel.joseph2506@gmail.com 
+- 🔗 https://www.linkedin.com/in/adriel-joseph-8495b9385/ 
 
 ---
